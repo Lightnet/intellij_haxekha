@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="kha 16,1,2" type="Haxe">
+    <CLASSES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/kha/16,1,2" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/kha/16,1,2/Sources" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/kha/16,1,2/Sources" />
+    </SOURCES>
+  </library>
+</component>

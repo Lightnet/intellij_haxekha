@@ -1,0 +1,24 @@
+{
+  "name": "haxekha",
+  "version": "1.0.0",
+  "description": "Last Update: 2018-06-08",
+  "main": "khafile.js",
+  "scripts": {
+    "server": "gulp default"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "browser-sync": "2.24.4",
+    "dotenv": "5.0.1",
+    "express": "4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.31",
+    "helmet": "3.12.1",
+    "webpack": "4.11.0",
+    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-cli": "2.1.5",
+    "webpack-node-externals": "1.7.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

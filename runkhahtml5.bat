@@ -1,0 +1,1 @@
+node "C:/HaxeToolkit/haxe/lib/kha/git/make.js" debug-html5

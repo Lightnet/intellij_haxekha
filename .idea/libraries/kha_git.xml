@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="kha git" type="Haxe">
+    <CLASSES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/kha/git" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/kha/git" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/kha/git/Sources" />
+    </SOURCES>
+  </library>
+</component>
