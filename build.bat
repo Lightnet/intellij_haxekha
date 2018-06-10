@@ -1,3 +1,3 @@
 @echo off
-node "C:/HaxeToolkit/haxe/lib/kha/git/make" html5
+node "C:/HaxeToolkit/haxe/lib/kha/git/make.js" html5
 pause
